@@ -127,6 +127,31 @@
 	div{
 		text-align: center;
 	}
+	.para-code{
+		text-align: justify; 
+		margin-left: 100px;
+		margin-right: 100px;
+		color: rgb(222, 210, 157);
+		font-size: 25px;
+	}
+	.code-editors-list{
+		color: rgb(222, 210, 157);
+		font-size: 25px;
+		list-style-type: circle;
+		margin-left: 180px;
+	}
+	#IDE{
+		color: rgb(222, 210, 157);
+		font-size: 25px;
+		margin-left: 100px;
+		margin-right: 100px;
+	}
+	#debug{
+		color: rgb(222, 210, 157);
+		font-size: 25px;
+		margin-left: 100px;
+		margin-right: 100px;
+	}
 	.footer{
 		position: fixed;
 		padding: 0px 10px 0px 10px;
@@ -170,6 +195,9 @@
 	
 	.nav__links li a:hover {
 		color: #0088a9;
+	}
+	a:visited{
+		color: aqua;
 	}
 	
 	.cta {
