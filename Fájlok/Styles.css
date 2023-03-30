@@ -129,8 +129,8 @@
 	}
 	.para-code{
 		text-align: justify; 
-		margin-left: 100px;
-		margin-right: 100px;
+		margin-left: 300px;
+		margin-right: 300px;
 		color: rgb(222, 210, 157);
 		font-size: 25px;
 	}
@@ -138,19 +138,20 @@
 		color: rgb(222, 210, 157);
 		font-size: 25px;
 		list-style-type: circle;
-		margin-left: 180px;
+		margin-left: 300px;
+		margin-right: 300px;
 	}
 	#IDE{
 		color: rgb(222, 210, 157);
 		font-size: 25px;
-		margin-left: 100px;
-		margin-right: 100px;
+		margin-left: 300px;
+		margin-right: 300px;
 	}
 	#debug{
 		color: rgb(222, 210, 157);
 		font-size: 25px;
-		margin-left: 100px;
-		margin-right: 100px;
+		margin-left: 300px;
+		margin-right: 300px;
 	}
 	.footer{
 		position: fixed;
@@ -197,7 +198,10 @@
 		color: #0088a9;
 	}
 	a:visited{
-		color: aqua;
+		color: rgb(222, 210, 157);
+	}
+	a{
+		color: rgb(222, 210, 157);
 	}
 	
 	.cta {
